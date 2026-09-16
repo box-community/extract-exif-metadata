@@ -1,0 +1,5 @@
+# Tested with the versions pinned below (Python 3.11+).
+# Install exactly one Box package — do not also install box-sdk-gen.
+# Both ship the box_sdk_gen module and conflict if installed together.
+boxsdk~=10.0
+python-dotenv>=1.0.0
