@@ -136,8 +136,8 @@ state: success  |  url_template: https://dl.boxcloud.com/api/2.0/internal_files/
 Extracted 7 of 8 fields:
   datetime: '2024-06-15T14:30:00Z' (str)
   cameraMake: 'Apple' (str)
-  imageWidth: 8 (int)
-  imageHeight: 8 (int)
+  imageWidth: 320 (int)
+  imageHeight: 240 (int)
   iso: 200 (int)
   rights: 'Copyright 2026 Sample' (str)
   creator: 'Jane Photographer' (str)
